@@ -12,5 +12,5 @@
 
 ***
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/romario-gomes-de-lima-b26037241)](https://www.linkedin.com/in/romario-lima-b26037241/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/romario-gomes-de-lima-b26037241)](https://www.linkedin.com/in/romario-gomes-de-lima-b26037241)
   [![Gmail Badge](https://img.shields.io/badge/-romariolima1006@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=romariolima1006@gmail.com)](romariolima1006@gmail.com)
